@@ -1,0 +1,73 @@
+h1{
+    color : gold;
+}
+
+.header
+{background-color:#f0fff0;
+display: flex;
+justify-content: flex-start;
+}
+.bodyimage
+{background-color: #f0fff0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.camel
+{background-color: #f0fff0;
+    display: flex;
+    justify-content: flex-start;
+}
+.chameleon
+{background-color: #f0fff0;
+    display: flex;
+    justify-content: flex-start;
+}
+.cicada
+{background-color: #f0fff0;
+    display: flex;
+    justify-content: flex-start;
+}
+.teddy
+{background-color: #f0fff0;
+    display: flex;
+    justify-content: flex-start;
+}
+.pigeon
+{background-color: #f0fff0;
+    display: flex;
+    justify-content: flex-start;
+}
+.panda
+{background-color: #f0fff0;
+    display: flex;
+    justify-content: flex-start;
+}
+
+body
+{background-color:honeydew;
+padding-top: 10px;
+margin-top: 1mm;
+}
+a:link{
+color: white;
+}
+a:visited{
+    color:darkcyan;
+}
+.camel
+{position:relative;
+}
+.camel p{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-70%,-70%);
+    
+}
+.camel:hover img {
+    opacity:0.33;
+}
+.camel:hover p {
+    opacity: 1;
+}
